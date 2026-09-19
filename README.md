@@ -44,7 +44,7 @@ This repository contains the complete workflow for the Cell and Molecular Biolog
 - **04_results/**  
   - Sequence alignments and comparison tables.
 - **05_report/**  
-  - The final laboratory report (`final_report.md`).
+  - The final laboratory report (``).
 
 ---
 
