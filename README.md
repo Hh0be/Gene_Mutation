@@ -44,19 +44,13 @@ This repository contains the complete workflow for the Cell and Molecular Biolog
 - **04_results/**  
   - Sequence alignments and comparison tables.
 - **05_report/**  
-  - The final laboratory report (``).
+  - The final laboratory report (`Gene Mutation F8 Gene`).
 
 ---
 
 ##  Galaxy History Evidence
 - **History Name:** `Palopalo_HemophiliaA_F8_Mutation_Lab`  
 - **Tools Used:** EMBOSS Transeq, Sequence Alignment tools.
-
----
-
-##  Submission Links
-- **GitHub Repository:** [PASTE YOUR FULL GITHUB REPO URL HERE]  
-- **Final Report:** See `05_report/final_report.md` inside this repository.
 
 ---
 
