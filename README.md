@@ -32,20 +32,6 @@
 
 ---
 
-##  Repository Structure
-This repository contains the complete workflow for the Cell and Molecular Biology Laboratory project:
-
-- **01_reference/**  
-  - Wild-type (WT) CDS and Protein sequences.
-- **02_documented_mutation/**  
-  - Analysis of the documented nonsense mutation (c.2209C>T).
-- **03_artificial_mutation/**  
-  - Analysis of the student-created frameshift mutation.
-- **04_results/**  
-  - Sequence alignments and comparison tables.
-- **05_report/**  
-  - The final laboratory report (`Gene Mutation F8 Gene`).
-
 ---
 
 ##  Galaxy History Evidence
